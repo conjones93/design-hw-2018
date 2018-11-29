@@ -1,0 +1,4 @@
+Data that travels in the internet is broken up into specific packets which carry about 1,000 bytes (depending on the file size).  When the packets arrive to their destination, that computer will put together and recreate the message within each packet.
+Domain names are used to identify IP addresses.  DNS translate those domain names to become IP address (the internet is made up of IP addresses).  DNS is a service for the internet that turns domain names into IP addresses.
+Cookies are used to ID the web pages and site that we visit on the Internet.  They are used to track website activity giving us the option to got through what has been visited.  Cookies also act as security - only the cookie and the user have access to it.
+1 - Domain/hostname.  2 - A path/protocol (http) that the URL follows.  3 - A port, for location access.
