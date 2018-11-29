@@ -1,8 +1,11 @@
 h1 {
     background-color: yellow;
-    color:yellow;
+    color:darkorange;
 }
 
+.lines {
+  width:100%
+}
 
 div {
     background-color: lightblue;
@@ -10,14 +13,12 @@ div {
 
 p {
     background-color: yellow;
-}
-<a>[target] {
-    background-color: brown;
+
 }
 
 a{
-  font-size:50px;
+  font-size:10px;
 }
-</style>
 
-<!-- CJones CSS stylin' comment! -->
+
+/* CJones CSS stylin' comment! */
