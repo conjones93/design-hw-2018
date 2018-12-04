@@ -8,4 +8,3 @@
 
 * My work process was similar to that of prior assignments:
 *Learn > Do > Re-learn > Fail > Learn > Succeed!*
-![alt text][./images/A6]
