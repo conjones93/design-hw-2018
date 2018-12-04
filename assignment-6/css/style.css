@@ -1,11 +1,13 @@
 h1 {
     background-color: yellow;
     color:darkorange;
+    opacity: .75;
 }
 
 .lines {
-  width:100%;
-  background-color:lightblue;
+  width:70%;
+  background-color:darkorange;
+
 }
 
 div {
@@ -14,7 +16,8 @@ div {
 
 p {
     background-color: yellow;
-
+    font-size:20px;
+    opacity: .85;
 }
 
 a{
