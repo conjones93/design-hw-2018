@@ -4,7 +4,8 @@ h1 {
 }
 
 .lines {
-  width:100%
+  width:100%;
+  background-color:lightblue;
 }
 
 div {
@@ -19,6 +20,11 @@ p {
 a{
   font-size:10px;
 }
-
+image{
+  align:center;
+}
+html,body{
+  background-color:darkorange;
+}
 
 /* CJones CSS stylin' comment! */
