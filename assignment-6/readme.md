@@ -6,5 +6,5 @@
 
 * Along with course material I also researched how to code with CSS online.  *W3 schools* was a nice help.  It shows examples to better understand what to do.  Also, help from my roommate and Prof. Evans was great too!
 
-* My work process was similar to that of prior assignments:
+*My work process was similar to that of prior assignments:
 *Learn > Do > Re-learn > Fail > Learn > Succeed!*
