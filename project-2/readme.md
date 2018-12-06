@@ -1,4 +1,4 @@
- #Assignment 4 Tech Report
+ # Assignment 4 Tech Report
 
 My experience learning html started with very basic things in Myspace with creating profiles.  And now, coming back to it and exploring much more - It has been very interesting but also stressful.  I am not the technician type, but more creative.  I find it difficult to make sure that the structure and grammar per specific codes is correct.  HTML is kind of like learning algebra and a new language!
 
