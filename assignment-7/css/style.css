@@ -1,0 +1,48 @@
+h1 {
+    background-color: yellow;
+    color:blue;
+    opacity: .75;
+}
+
+.lines {
+  width:70%;
+  background-color:lightblue;
+
+}
+
+div {
+    background-color: lightblue;
+}
+
+p {
+    background-color: yellow;
+    font-size:20px;
+    color:black;
+}
+
+a{
+  font-size:10px;
+}
+a:hover{
+  font-size:15px;
+
+}
+button:hover{
+  background-color:yellow;
+}
+image{
+  align:center;
+}
+p.a {
+    font-family: "Times New Roman", Times, serif;
+}
+
+p.b {
+    font-family: Arial, Helvetica, sans-serif;
+}
+html,body{
+  background-color:blue;
+}
+#main{
+  background-color:grey;
+}
