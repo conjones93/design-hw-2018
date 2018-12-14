@@ -12,12 +12,16 @@ h1 {
 
 div {
     background-color: lightblue;
+    padding:25px 50px;
+    z-index: 1; /* integer */
 }
 
 p {
     background-color: yellow;
     font-size:20px;
     color:black;
+    border-style: dotted solid;
+    margin: 25px 50px 75px;
 }
 
 a{
@@ -27,6 +31,11 @@ a:hover{
   font-size:15px;
 
 }
+button{
+  position:fixed;
+  float:right;
+  font-size:20px;
+}
 button:hover{
   background-color:yellow;
 }
@@ -35,6 +44,13 @@ image{
 }
 p.a {
     font-family: "Times New Roman", Times, serif;
+}
+
+div.absolute {
+  position: absolute;
+  bottom: 10px;
+  width: 50%;
+  border: 3px solid #8AC007;
 }
 
 p.b {
