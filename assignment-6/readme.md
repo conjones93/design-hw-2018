@@ -8,3 +8,5 @@
 
 *My work process was similar to that of prior assignments:
 *Learn > Do > Re-learn > Fail > Learn > Succeed!*
+
+![Alt text](./images/A6-screenshot-12-3.png "screenshot-a4")

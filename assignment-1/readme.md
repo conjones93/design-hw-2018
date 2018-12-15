@@ -1,5 +1,5 @@
-# My Intro-Web-Dev Homework Repo
-## Conor Jones
+## My Intro-Web-Dev Homework Repo
+### _by Conor Jones_
 
 I've decided to take this class for the following reasons:
 
